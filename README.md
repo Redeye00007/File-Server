@@ -21,10 +21,30 @@ This is a lightweight Python file server script for Termux. It allows you to sha
    
    ```
 
-##Longing_info👇
+## 🔒Longing_info👇
 
 username:Redeye
+
 password:Himel
+
+
+
+
+
+   ## ⚡ Features
+
+- Menu-driven terminal interface with green colored choices  
+- Share Internal Storage (`/sdcard`)  
+- Share External Storage (auto-detect or manual path)  
+- Save manual external storage path in `config.txt`  
+- Serve files over HTTP on port 8080  
+- Professional browser UI with yellow logo and optional background PNG/JPG  
+- Table view of files with clickable download buttons  
+
+---
+   
+   
+   
 
 
 
