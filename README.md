@@ -4,6 +4,7 @@ This is a lightweight Python file server script for Termux. It allows you to sha
 
 ---
 
+
 ## 🛠 Requirements
 
 1. **Termux** (latest version recommended)  
@@ -19,7 +20,16 @@ This is a lightweight Python file server script for Termux. It allows you to sha
    python File-Server.py
    
    ```
-   
+
+##Longing_info👇
+
+username:Redeye
+password:Himel
+
+
+
+
+
    ## ⚡ Features
 
 - Menu-driven terminal interface with green colored choices  
