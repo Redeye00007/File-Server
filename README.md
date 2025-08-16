@@ -14,8 +14,7 @@ This is a lightweight Python file server script for Termux. It allows you to sha
    pkg update && pkg upgrade
    pkg install python
    pkg install git
-   git clone
-   https://github.com/Redeye00007/File-Server
+   git clone https://github.com/Redeye00007/File-Server
    cd File-Server
    python File-Server.py
    
